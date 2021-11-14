@@ -2676,6 +2676,11 @@ source-map@^0.6.1:
   resolved "https://registry.yarnpkg.com/source-map/-/source-map-0.6.1.tgz#74722af32e9614e9c287a8d0bbde48b5e2f1a263"
   integrity sha512-UjgapumWlbMhkBgzT7Ykc5YXUT46F0iKu8SGXq0bcwP5dz/h0Plj6enJqjz1Zbq2l5WaqYnrVbwWOWMyF3F47g==
 
+sourcemeter@^0.2.2:
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/sourcemeter/-/sourcemeter-0.2.2.tgz#08e3414aad38836ef7b7db614f223f50c8cf2b1c"
+  integrity sha512-2Srd31Thkh5jrbIVF70F73BdCbGdfbLszHpWnZ/4hlE4LjHJFmjwEOWMjfb5GVyK2LyntH+BpCPvyK69QCANbA==
+
 spdx-correct@^3.0.0:
   version "3.1.1"
   resolved "https://registry.yarnpkg.com/spdx-correct/-/spdx-correct-3.1.1.tgz#dece81ac9c1e6713e5f7d1b6f17d468fa53d89a9"
